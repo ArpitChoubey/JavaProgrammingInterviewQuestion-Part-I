@@ -9,7 +9,7 @@ A curated collection of **55 Java programs** every **Tester, SDET, and Automatio
 - Builds logic — not just syntax memorization.
 
   ### Complete Java Program List
-  Write a Java program to find ASCII value of a character
+Write a Java program to find ASCII value of a character
 
 Write a Java program to add two Integer
 
@@ -147,7 +147,7 @@ Pull Requests (PRs) are welcome for:
 ### 👨‍💻 Author
 **Arpit Choubey**  
 SDET | QA | Automation Engineer  
-🔗 [LinkedIn](https://linkedin.com/in/arpit-choubey) | [Medium](https://medium.com/@arpitchoubey)
+🔗 [LinkedIn](https://www.linkedin.com/in/arpitchoubey/) | [Medium](https://medium.com/@ArpitChoubey9)
 
 ### ⭐ Support
 If this repository helps you, please **Star** 🌟 it.  
